@@ -13,6 +13,10 @@ body{
     justify-content: center;
     height: 100vh;
     background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    background-image: url("https://cdn2.vectorstock.com/i/1000x1000/92/31/trader-broker-agent-trading-on-stock-market-vector-26199231.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .container{
